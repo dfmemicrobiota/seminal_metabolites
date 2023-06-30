@@ -1,6 +1,6 @@
-# Impact of semen microbiota on the composition of seminal plasma![image](https://github.com/dfmemicrobiota/seminal_metabolites/assets/75491874/03d6dc6e-b40a-40d7-8cde-e548915834a4)
+# Impact of semen microbiota on the composition of seminal plasma
 
-### Description
+## Description
 Male infertility is a significant concern contributing to the growing utilization of assisted reproductive technologies (ART). Environmental and lifestyle factors have been implicated, and the impact of the male genital microbiota on fertility is an unexplored area of research. This study aimed to investigate the association between seminal microbiota and sperm physiology through the integration of microbiota profiling and metabolomics.
 
 ## Import libraries
