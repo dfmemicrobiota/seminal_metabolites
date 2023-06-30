@@ -17,7 +17,7 @@ Male infertility is a significant concern contributing to the growing utilizatio
 
 ### Import libraries
 
-```{r include=FALSE}
+```
 library(htmltools)
 library(utils)
 library(BiocManager)
